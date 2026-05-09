@@ -11,22 +11,6 @@ Through this analysis, we explore:
 - State-wise sales trends
 - Gender and age group analysis
 
----
-
-## 📂 Dataset
-The dataset contains customer purchase information during the Diwali festival season.
-
-### Dataset Features:
-- User ID
-- Gender
-- Age Group
-- State
-- Occupation
-- Product Category
-- Orders
-- Amount
-
-
 ## 🛠️ Tools
 
 - Python
@@ -54,8 +38,6 @@ The following analysis was performed in this project:
 - Occupation-based purchasing trends
 - Product category analysis
 - Top-selling products
-
----
 
 ## 📈 Key Insights
 

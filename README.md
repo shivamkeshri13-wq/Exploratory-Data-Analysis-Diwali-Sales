@@ -26,9 +26,8 @@ The dataset contains customer purchase information during the Diwali festival se
 - Orders
 - Amount
 
----
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tools
 
 - Python
 - Jupyter Notebook
@@ -37,7 +36,6 @@ The dataset contains customer purchase information during the Diwali festival se
 - Matplotlib
 - Seaborn
 
----
 
 ## 📊 Exploratory Data Analysis Performed
 
@@ -66,12 +64,3 @@ The following analysis was performed in this project:
 - IT, Healthcare, and Aviation sectors showed strong buying behavior.
 - Food, Clothing, and Electronics categories generated high sales.
 
----
-
-## 📷 Sample Visualizations
-
-Some visualizations included in this project:
-- Bar Charts
-- Count Plots
-- Sales Distribution Graphs
-- Category Comparison Charts
